@@ -26,7 +26,7 @@ function Home() {
                             Welcome to the <span className='text-customPink'>BlogSpot!</span>
                         </h1>
                         <p className='md:text-lg text-sm lg:px-5 px-10 md:px-0 mx-auto text-black'>
-                        Find your next great read, share your story with the world. Write, connect, and be heard.
+                        Capture Moments, Share Thoughts, Explore Ideas - Where Every Picture Tells a Story.
                         </p>
                         <div className="mx-auto">
                             <Button
@@ -40,7 +40,7 @@ function Home() {
 
                     <div className='md:w-[100%] mt-10 md:mt-0 flex justify-center'>
                         <div className='w-full max-w-[1000px] rounded-xl overflow-hidden '>
-                            <img src="/landing-page-img.jpg" alt="blogginImage" />
+                            <img src="/landing-page.png" alt="blogginImage" />
                         </div>
                     </div>
                 </div>
