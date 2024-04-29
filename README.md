@@ -23,6 +23,14 @@ BlogHub is a dynamic web application crafted for users to articulate their thoug
 2. **Create and Manage Articles:** Visit "Add Post" in the navbar to publish a post. Modify or delete your articles as needed.
 3. **Explore All Posts:** Explore the "All Posts" section to discover articles published by other users.
 
+
+## 🚦 Running the Project
+
+1. **Clone the Repository:** `git clone https://github.com/anuragino/BLogSpot`
+2. **Navigate to the Project Directory:** `cd BLogSpot`
+3. **Install Dependencies:** `npm install`
+4. Run `npm run dev` to get the project started.
+
 ## 📝 Rich Text Editor
 
 The application employs TinyMCE, offering an intuitive and powerful rich text editing experience. Users can format text, insert multimedia elements, and create engaging articles reminiscent of professional word processors.
@@ -30,3 +38,5 @@ The application employs TinyMCE, offering an intuitive and powerful rich text ed
 ## 🌐 Appwrite Integration
 
 Appwrite serves as the backbone, streamlining backend operations and enhancing the security of user authentication and data storage. Appwrite simplifies the complexities and repetitions involved in building a modern backend API, enabling developers to construct secure apps more efficiently.
+
+
